@@ -3,7 +3,12 @@ header {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: grey;
+    background-image: url(https://t4.ftcdn.net/jpg/03/70/90/33/360_F_370903385_hL6eUgc2w2OEwMPS8q9OdFZrYDQYdzPB.jpg);
+    background-position: top;
+    width: 100%;
+    height: 300px;
+    color: black;
+    text-align: center;
 }
 
 main {
